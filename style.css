@@ -1,0 +1,23 @@
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+table{
+    display: table;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+.container{
+    display: block;
+    width: 90%;
+    background-color: #EEEEEE;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
